@@ -16,8 +16,8 @@ read it and never go outside it.
 
 ## Setup
 
-Copy the block below into `brand-reference.md` next to this skill and fill it in. Leave nothing
-as `[FILL IN]` that a skill will need; a blank cell means "ask the owner", not "guess".
+Copy the block below into `brand-reference.md` and fill it in. Put it next to this skill, or
+anywhere you point the skills to (this repo keeps it in `brand/`). Leave nothing as `[FILL IN]` that a skill will need; a blank cell means "ask the owner", not "guess".
 
 ```markdown
 # [Brand name] Brand Reference

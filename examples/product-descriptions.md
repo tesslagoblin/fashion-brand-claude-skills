@@ -23,10 +23,10 @@ Print: Tiger  [new library entry]
 Title options:
   1. Captain Fenclaw's Tiger Button Down     (35/44)  dup check: clear
   2. Captain Fenclaw's Tiger Print Shirt     (35/44)  dup check: clear
-Description (247/300, 3 sentences):
-  Captain Fenclaw's Tiger Button Down is the purrrfect everyday luxury, a unisex tiger print
-  button up shirt. Poly-silk with a little stretch, gold buttons and gold metallic cuffs in a
-  regular fit. Comes with the storybook The Cat Captain's Coffers.
+Description (276/300, 3 sentences):
+  Captain Fenclaw's Tiger Button Down is the purrrfect everyday luxury, a unisex button up shirt
+  straight from the Cat Captain's wardrobe. Poly-silk with a little stretch, gold buttons and gold
+  metallic cuffs in a regular fit. Comes with the storybook The Cat Captain's Coffers.
 Gate: pass
 Notes: "Tiger Silk Shirt" rejected as a title. The fabric is poly-silk, so "silk" overstates it.
 Decision: [ Approve | Redraft + note | Question ]

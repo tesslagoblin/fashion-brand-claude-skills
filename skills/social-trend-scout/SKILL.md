@@ -31,7 +31,7 @@ DATA_SOURCE      = [how you read trends, see below]
 
 **Pick a data source before first run.** TikTok and Instagram don't expose trending feeds freely. Options, easiest first:
 1. A paid trend-tracking service with an API or export
-2. TikTok Research API (free, restricted, requires an application)
+2. TikTok Research API (free, but access is limited to approved academic and non-profit researchers, so most brands should use one of the other options)
 3. A scraping service (usage-based, check the platform's terms)
 4. Browser automation (fragile, not recommended)
 
@@ -66,7 +66,7 @@ Web search alone surfaces trends late. Expect "rising" to be less reliable witho
 - **Humor has to be funny.** Popular is not enough. When in doubt, skip.
 - **Dedupe is mechanical.** Never re-post an ID in the state file, even if it's still rising. A human can ask for a repeat.
 - **Post failed means state untouched.**
-- **Scheduled runs never wait for a human reply.**
+- **Scheduled runs never wait for a human reply.** Until the channel owner waives review, a scheduled run saves the digest for review instead of posting it.
 
 ## Output format
 

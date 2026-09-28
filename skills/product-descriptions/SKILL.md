@@ -114,9 +114,9 @@ One block per product (or per set):
 Product: Tidepool Swirl Halter Top            (set: Tidepool Swirl, 2 pieces)
 Print: Tidepool Swirl  [library match]
 Title options:
-  1. Tidepool Swirl Halter Top      (26/44)  dup check: clear
-  2. Tidepool Swirl Tie Halter Top  (30/44)  dup check: clear
-Description (241/300, 3 sentences):
+  1. Tidepool Swirl Halter Top      (25/44)  dup check: clear
+  2. Tidepool Swirl Tie Halter Top  (29/44)  dup check: clear
+Description (223/300, 3 sentences):
   The Tidepool Swirl Halter Top is a tie-back halter crop top made for long summer days.
   Soft stretch knit with a full lining, and the ties adjust at the neck and back. Pair with
   the Tidepool Swirl Skirt to complete the look.

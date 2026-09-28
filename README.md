@@ -8,7 +8,7 @@ Fenclaw & Faund is pirate and fantasy fashion where every piece belongs to a sto
 
 - **Approved lines beat generated ones.** Campaign copy pulls brand lines word for word from a bank I wrote. When a story has no lines yet, the skill asks instead of making some up.
 - **Never let it invent a material.** If it's not in the spec, it's not in the copy. In the [product samples](examples/product-descriptions.md), the skill turns down the title "Tiger Silk Shirt" because the fabric is poly-silk.
-- **Humans approve everything.** Every skill stops and shows its work before anything goes live.
+- **Humans approve everything that goes out.** Nothing gets published or sent without a person saying yes. The trend scout can run on a schedule, but it shows me the digest before posting unless I switch that off.
 
 ## The skills
 
@@ -31,7 +31,7 @@ The `examples/` folder has real output from these skills on real products:
 - [`campaign-copy.md`](examples/campaign-copy.md): a feature for The Cat Captain's Coffers
 - [`moodboard.md`](examples/moodboard.md) and [`design-brief.md`](examples/design-brief.md): the same campaign, handed to design
 
-The brand guide the skills read from is [`brand/brand-reference.md`](brand/brand-reference.md). It's a working document: where it has blanks (colors, fonts), the samples show the skills stopping to ask instead of guessing.
+The brand guide the skills read from is [`brand/brand-reference.md`](brand/brand-reference.md). It's a working document with blanks. Colors aren't confirmed yet, so the samples show the skills stopping to ask instead of guessing. Fonts are a best read from the site, so the skills use them and flag them for me to confirm.
 
 The skill files themselves use a made-up brand, Northwind Apparel, in their built-in examples so they stay reusable for anyone.
 

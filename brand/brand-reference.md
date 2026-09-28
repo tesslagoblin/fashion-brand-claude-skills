@@ -1,6 +1,6 @@
 # Fenclaw & Faund Brand Reference
 
-> **Status: in progress.** Voice, pillars and the Coffers story are filled in from the live site. Colors, fonts and two of the three stories are still open, and the skills stop and ask when they hit a blank. Sections this brand doesn't use (2, 7, 8, 11) are left out on purpose.
+> **Status: in progress.** Voice, pillars and the Coffers story are filled in from the live site. Colors and two of the three stories are still open, and the skills stop and ask when they hit a blank. Fonts are a best read from the site, used and flagged until confirmed. Sections this brand doesn't use (2, 8, 11) are left out on purpose.
 
 ## 1. Palettes
 - Core: Captain's red [CONFIRM hex], Captain's gold [CONFIRM hex]
