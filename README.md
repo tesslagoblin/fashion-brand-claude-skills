@@ -14,7 +14,7 @@ Fenclaw & Faund is pirate and fantasy fashion where every piece belongs to a sto
 
 | Skill | What it does |
 |---|---|
-| `brand-guardrails` | The brand guide every other skill reads from: stories, voice, approved lines, colors, fonts |
+| `brand-guardrails` | The brand guide the copy and design skills read from: stories, voice, approved lines, colors, fonts |
 | `product-descriptions` | Titles and descriptions from a product and its specs. Character limits, no invented materials, duplicate-title check |
 | `campaign-copy` | Storyline, brand lines, copy block and content ideas for a collection |
 | `moodboard-queries` | Search queries for a campaign moodboard, frozen per story so it stays consistent |

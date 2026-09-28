@@ -53,10 +53,10 @@ Product: The Jeweler's Guild Signet Ring     (story: Adaween, Gem of the Jungle)
 Title options:
   1. Jeweler's Guild Signet Ring             (27/44)  dup check: clear
   2. Jeweler's Guild Amethyst Signet Ring    (36/44)  dup check: clear
-Description (273/300, 3 sentences):
-  The Jeweler's Guild Signet Ring is said to hold the key to the Golden Portal, a lost ruin deep
+Description (265/300, 3 sentences):
+  Jeweler's Guild Signet Ring is said to hold the key to the Golden Portal, a lost ruin deep
   in the jungle city of Adaween. Stainless steel with an amethyst pyramid at its heart, delivered
-  in a handmade wooden box. Comes with the storybook Adaween, the Gem of the Jungle.
+  in a handmade wooden box. Comes with the storybook Adaween, Gem of the Jungle.
 Gate: pass
 Decision: [ Approve | Redraft + note | Question ]
 ```
